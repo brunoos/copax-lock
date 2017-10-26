@@ -1,3 +1,7 @@
+-- Module: copax.lock
+-- Version: 0.1
+-- Author: Bruno Silvestre
+
 local copas = require("copas")
 
 -------------------------------------------------------------------------------
